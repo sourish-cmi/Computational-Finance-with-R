@@ -10,3 +10,8 @@ This book equips students to meet the quantitative and computational demands of 
 <p align = "center">
 <img src="./book_front.jpeg" alt="drawing" width="275" height="400"/>
 </p>
+
+
+## Table of Contents
+
+1. Chapter 1 : ![Preliminaries](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_01.md)
