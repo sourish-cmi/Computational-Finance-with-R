@@ -1,5 +1,6 @@
 # 1. Preliminaries
 
+### Example 1.1.2
 ```{r}
 f<-function(x) 3*x^2-16*x+5
 a<-0
