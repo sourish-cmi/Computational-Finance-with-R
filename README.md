@@ -10,8 +10,9 @@ Includes two chapters on machine learning in finance based on cutting-edge resea
 <img src="./book_front.jpeg" alt="drawing" width="275" height="400"/>
 </p>
 
-Available in [Springer](https://link.springer.com/book/10.1007/978-981-19-2008-0)
-Available in [Amazon](https://www.amazon.in/Computational-Finance-Indian-Statistical-Institute/dp/9811920079/ref=sr_1_1?crid=XB6CS1Y1KZSN&dib=eyJ2IjoiMSJ9.7Yk_gU1_xW0jHnqTvFO1s9NlBiEzJh9rcZTNMBrBqYrHjxqfWPWf1R4tKm0f-hKBHWebIrq3nouN52ey-dbg4o9hZHkToRFws9VrnrizzVefkNZtiOd4klyLuiMthkk-2Wp7sBLEMhLgelo7nKl9w09LZ6ZjzvKnZbwdT8gf2xYHFOor7ibFaD68EHGuOs13pI-p0_3hlqYDjJI8kSYwBvrgNLIJWj2jM52yaNHEA_Q.MTGH5M1y2MSsYN45D5h1JMJyihqYEIzPBUOUrcfRhSg&dib_tag=se&keywords=computational+finance+with+r&qid=1711028598&sprefix=Computational+Finance%2Caps%2C247&sr=8-1)
++ Available in [Springer](https://link.springer.com/book/10.1007/978-981-19-2008-0)
+
++ Available in [Amazon](https://www.amazon.in/Computational-Finance-Indian-Statistical-Institute/dp/9811920079/ref=sr_1_1?crid=XB6CS1Y1KZSN&dib=eyJ2IjoiMSJ9.7Yk_gU1_xW0jHnqTvFO1s9NlBiEzJh9rcZTNMBrBqYrHjxqfWPWf1R4tKm0f-hKBHWebIrq3nouN52ey-dbg4o9hZHkToRFws9VrnrizzVefkNZtiOd4klyLuiMthkk-2Wp7sBLEMhLgelo7nKl9w09LZ6ZjzvKnZbwdT8gf2xYHFOor7ibFaD68EHGuOs13pI-p0_3hlqYDjJI8kSYwBvrgNLIJWj2jM52yaNHEA_Q.MTGH5M1y2MSsYN45D5h1JMJyihqYEIzPBUOUrcfRhSg&dib_tag=se&keywords=computational+finance+with+r&qid=1711028598&sprefix=Computational+Finance%2Caps%2C247&sr=8-1)
 
 ## Table of Contents
 
