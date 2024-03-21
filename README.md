@@ -14,4 +14,4 @@ This book equips students to meet the quantitative and computational demands of 
 
 ## Table of Contents
 
-1. Chapter 1 : ![Preliminaries](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_01.md)
+1. Chapter 1 : [Preliminaries](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_01.md)
