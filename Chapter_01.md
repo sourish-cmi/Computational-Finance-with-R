@@ -10,4 +10,6 @@ while(b-a>e){
   if(f(a)*f(c)<0){b<-c}else{a<-c}}
 sol=b
 sol
+
+## [1] 0.3359375
 ```
