@@ -35,3 +35,22 @@ for(i in 1:2){
   q[i] = f[i+1]/h[i]-c[i+1]*h[i]/6
 }
 ```
+
+```{R}
+require(graphics)
+n = 9
+x = 1:n
+set.seed(1010)
+y = rnorm(n)
+## polynomial fit
+library(polynom)
+g = poly.calc(x,y)
+f = as.function(g)
+curve(f(x),1,9,lwd=2,col='purple'
+      ,ylab = expression(f(x)))
+points(x, y, ylim=c(-3,3),pch=20)
+## Spline approximation
+lines(spline(x, y), col="blue",lwd=3,lty=2)
+```
+
+
