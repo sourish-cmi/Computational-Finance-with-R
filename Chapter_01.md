@@ -52,5 +52,5 @@ points(x, y, ylim=c(-3,3),pch=20)
 ## Spline approximation
 lines(spline(x, y), col="blue",lwd=3,lty=2)
 ```
-
+![fig1_1.pdf](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Figure/fig1_1.pdf)
 
