@@ -54,7 +54,7 @@ lines(spline(x, y), col="blue",lwd=3,lty=2)
 ```
 
 <p align = "center">
-<img src="./Figure/fig1_1.jpeg" alt="drawing" width="275" height="275"/>
+<img src="./Figure/fig1_1.JPEG" alt="drawing" width="275" height="275"/>
 </p>
 
 
