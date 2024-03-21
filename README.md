@@ -10,6 +10,7 @@ Includes two chapters on machine learning in finance based on cutting-edge resea
 <img src="./book_front.jpeg" alt="drawing" width="275" height="400"/>
 </p>
 
+Available in [Springer](https://link.springer.com/book/10.1007/978-981-19-2008-0)
 
 ## Table of Contents
 
