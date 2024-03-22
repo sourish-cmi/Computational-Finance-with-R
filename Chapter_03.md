@@ -52,6 +52,9 @@ grid(col='cadetblue4',lty=1)
 points(K,sig,pch=20)
 lines(K[j],sig[j],lwd=3,col='coral4')
 ```
+<p align = "center">
+<img src="./Figure/fig3_1.jpg" alt="drawing" width="400" height="400"/>
+</p>
 
 ## Bisection Algorithm
 ```{r}
