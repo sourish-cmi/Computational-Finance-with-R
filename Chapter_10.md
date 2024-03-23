@@ -53,7 +53,7 @@ plot(ts(P,start=0,frequency = 1000),ylab="")
 
 
 <p align = "center">
-<img src="./Figure/fig10_2.jpg" alt="drawing" width="400" height="400"/>
+<img src="./Figure/fig10_2.jpg" alt="drawing" width="800" height="600"/>
 </p>
 
 
