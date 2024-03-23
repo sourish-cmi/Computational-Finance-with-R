@@ -62,6 +62,9 @@ plot(1/(u-g)^(1/3), xlab="Number of sub-intervals"
      , ylab=TeX("$Error^{-1/3}$")
      , pch=20)
 ```
+<p align = "center">
+<img src="./Figure/fig4_2.jpg" alt="drawing" width="400" height="400"/>
+</p>
 
 
 ```{R}
