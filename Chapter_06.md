@@ -41,3 +41,7 @@ plot(NULL,ylim=c(0.94,1.02),xlim=c(K[1],K[8])
 grid(col='cadetblue4',lty=3,lwd=2)
 points(K,pp/price,pch=20,col='purple3',type='b')
 ```
+
+<p align = "center">
+<img src="./Figure/fig6_2.jpg" alt="drawing" width="400" height="400"/>
+</p>
