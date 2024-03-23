@@ -1,7 +1,7 @@
 # Chapter 6: Numerical Methods for PDE
 
 <p align = "center">
-<img src="./Figure/fig6_1.jpg" alt="drawing" width="400" height="400"/>
+<img src="./Figure/fig6_1.jpeg" alt="drawing" width="400" height="400"/>
 </p>
 
 ```{r}
