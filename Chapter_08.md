@@ -30,7 +30,7 @@ hist(y,freq=F,main="Exp from Built-in R",col="orange")
 
 
 <p align = "center">
-<img src="./Figure/fig8_4.jpeg" alt="drawing" width="400" height="400"/>
+<img src="./Figure/fig8_4.jpg" alt="drawing" width="400" height="400"/>
 </p>
 
 ```{r}
@@ -97,5 +97,5 @@ cat("Acceptance Rate :","\n")
 
 
 <p align = "center">
-<img src="./Figure/fig8_5.jpeg" alt="drawing" width="400" height="400"/>
+<img src="./Figure/fig8_5.jpg" alt="drawing" width="400" height="400"/>
 </p>
