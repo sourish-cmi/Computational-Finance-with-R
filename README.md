@@ -28,6 +28,8 @@ Includes two chapters on machine learning in finance based on cutting-edge resea
 
 **Chapter 6** : [Numerical Methods for PDE](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_06.md)
 
+**Chapter 7** : [Optimization](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_07.md)
+
 
 This book equips students to meet the quantitative and computational demands of the finance sector. It meticulously explains quantitative methods, using real financial scenarios such as option pricing, risk management, and portfolio selection as examples. The book includes `R` programming language codes for implementing these methods, accompanied by tables and figures featuring real data to illustrate their applications. References to related literature are included to facilitate further exploration of specific areas of interest. With its comprehensive coverage of economic, statistical, mathematical, and computational theory, the book enhances understanding. It offers a wide-ranging scope, with clear explanations of connections between different sections. While the primary audience is graduate students, advanced undergraduates will also find it accessible. Moreover, practitioners in the finance industry can derive valuable insights from its content.
 
