@@ -54,5 +54,5 @@ round(S$solution,2)
 
 
 <p align = "center">
-<img src="./Figure/fig7_1.jpeg" alt="drawing" width="400" height="400"/>
+<img src="./Figure/fig7_1.jpg" alt="drawing" width="400" height="400"/>
 </p>
