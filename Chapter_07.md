@@ -48,11 +48,14 @@ for(i in 1:1000){
 }
 plot(x,y,type="l", xlab="Variance", ylab="Mean"
      ,lwd=2,col='purple')
-round(S$solution,2)
-# 0.00  5.43  0.00  0.00 69.61  0.00  7.61  0.00  0.00 96.95 27.85 15.61  0.00
 ```
 
 
 <p align = "center">
 <img src="./Figure/fig7_1.jpg" alt="drawing" width="400" height="400"/>
 </p>
+
+```{r}
+round(S$solution,2)
+# 0.00  5.43  0.00  0.00 69.61  0.00  7.61  0.00  0.00 96.95 27.85 15.61  0.00
+```
