@@ -39,3 +39,57 @@ points(seq(1:5000)/5000, P, type="l"
 <p align = "center">
 <img src="./Figure/fig9_4.jpg" alt="drawing" width="400" height="400"/>
 </p>
+
+
+```{r}
+EuroPut = function(S, T , K, r, sigma , N){
+  dT=T/N  #length of each subinterval
+  u=exp(sigma*sqrt(dT)) #using the CRR model
+  d=1/u
+  p=(exp(r*dT)-d)/(u-d)
+  tree=matrix(NA,nrow=(N+1),ncol=(N+1))  #setting up the matrix
+  for(i in 0:N){
+    tree[i+1,N+1]=max(0,(K-S*u^i*d^(N-i)))
+    #The pay-off at terminal time with i upward movements
+  }
+  for(j in (N-1):0){
+    for(i in 0:j){
+    tree[i+1,j+1]=exp(-r*dT)*(p*tree[i+2,j+2]
+    +(1-p)*tree[i+1,j+2])
+    #The expected value of the option at each previous step
+    }
+  }
+  price=tree[1,1]
+  return(price)
+}
+EuroPut(S=10,T=10,K=11,r=0.05,sigma=0.1,N=10)
+
+## [1] 0.09864932
+```
+
+```{r}
+AmericanCall = function(T, S, K, r,sigma, N) {
+  dT =  T / N
+  u  =  exp(sigma * sqrt(dT))
+  d  =  1/u
+  p=(exp(r*dT)-d)/(u-d)
+  tree=matrix(NA,nrow=(N+1),ncol=(N+1))
+  for(i in 0:N){
+    tree[i+1,N+1] = max(0,(S*u^i*d^(N-i)-K))
+  }
+  for(j in (N-1):0){
+    for(i in 0:j){
+      # binomial value
+      tree[i+1,j+1] = exp(-r*dT)*(p*tree[i+2,j+2]+(1-p)*tree[i+1,j+2]) 
+      # exercise value
+      exercise = S*u^i*d^(j-i)-K 
+      if(tree[i+1,j+1] < exercise) tree[i+1,j+1] = exercise  #***
+    }
+  }
+  americanCall = tree[1,1]
+  return(americanCall)
+}
+AmericanCall(S=12,T=10,K=12,r=0.05/250,sigma=0.01,N=100)
+
+## [1] 0.1631424
+```
