@@ -15,6 +15,9 @@ plot(f,xlim=c(0,pi/4),ylab=expression(f(x))
 curve(f2,add=TRUE,col="red",lwd=2,lty=2)
 curve(f1,add=TRUE,col="blue",lwd=2)
 ```
+<p align = "center">
+<img src="./Figure/fig3_1.jpg" alt="drawing" width="400" height="400"/>
+</p>
 
 ### Example 4.2.2
 
