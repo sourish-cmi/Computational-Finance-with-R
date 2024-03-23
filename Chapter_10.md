@@ -1,4 +1,4 @@
-# Chapter 9: Lattice Models
+# Chapter 10: Simulating Brownian Motion
 
 
 
