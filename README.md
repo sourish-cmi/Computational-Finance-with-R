@@ -10,6 +10,19 @@ Includes two chapters on machine learning in finance based on cutting-edge resea
 <img src="./book_front.jpeg" alt="drawing" width="275" height="400"/>
 </p>
 
+### Book Review
+
++ Review by  Nikolay Kyurkchiev (Plovdiv)
+  ```
+  This book is based on the lecture notes that the authors have used at Chennai Mathematical Institute (CMI) and Indian Statistical Institute (ISI). The quantitative methods are explained in detail with examples from real financial problems like option pricing, risk management, portfolio selection, etc.
+  ...
+  The monograph is exclusively professionally written and the materials are presented in an attractive way. This book may be useful to senior undergraduate and postgraduate students.
+  ```
+
+
+  [Full Review](https://zbmath.org/1519.91004)
+
+
 + Available at [Springer](https://link.springer.com/book/10.1007/978-981-19-2008-0)
 
 + Available at [Amazon](https://www.amazon.in/Computational-Finance-Indian-Statistical-Institute/dp/9811920079/ref=sr_1_1?crid=XB6CS1Y1KZSN&dib=eyJ2IjoiMSJ9.7Yk_gU1_xW0jHnqTvFO1s9NlBiEzJh9rcZTNMBrBqYrHjxqfWPWf1R4tKm0f-hKBHWebIrq3nouN52ey-dbg4o9hZHkToRFws9VrnrizzVefkNZtiOd4klyLuiMthkk-2Wp7sBLEMhLgelo7nKl9w09LZ6ZjzvKnZbwdT8gf2xYHFOor7ibFaD68EHGuOs13pI-p0_3hlqYDjJI8kSYwBvrgNLIJWj2jM52yaNHEA_Q.MTGH5M1y2MSsYN45D5h1JMJyihqYEIzPBUOUrcfRhSg&dib_tag=se&keywords=computational+finance+with+r&qid=1711028598&sprefix=Computational+Finance%2Caps%2C247&sr=8-1)
