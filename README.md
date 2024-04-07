@@ -73,6 +73,7 @@ Includes two chapters on machine learning in finance based on cutting-edge resea
 
 **Chapter 16** : [Statistical Risk Analysis](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_16.md)
 
+**Chapter 17** : [Supervised Learning](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_17.md)
 
 
 
