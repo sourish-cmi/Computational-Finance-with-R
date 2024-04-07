@@ -218,6 +218,14 @@ IS(y, const[which.min(A[,2])], 1000)[4]
 
 ### Markov Chain Monte Carlo
 
+<p align = "center">
+<img src="./Figure/fig15_1.jpg" alt="drawing" width="400" height="400"/>
+<img src="./Figure/fig15_2.jpg" alt="drawing" width="400" height="400"/>
+        
+<img src="./Figure/fig15_3.jpg" alt="drawing" width="400" height="400"/>
+
+<img src="./Figure/fig15_4.jpg" alt="drawing" width="400" height="400"/>
+</p>
 
 ```{r}
 library('mvtnorm')
