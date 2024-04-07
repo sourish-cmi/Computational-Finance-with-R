@@ -14,9 +14,12 @@ Includes two chapters on machine learning in finance based on cutting-edge resea
 
 + Review by  Nikolay Kyurkchiev (Plovdiv)
   ```
-  This book is based on the lecture notes that the authors have used at Chennai Mathematical Institute (CMI) and Indian Statistical Institute (ISI). The quantitative methods are explained in detail with examples from real financial problems like option pricing, risk management, portfolio selection, etc.
+  This book is based on the lecture notes that the authors have used at Chennai Mathematical Institute (CMI)
+  and Indian Statistical Institute (ISI). The quantitative methods are explained in detail with examples
+  from real financial problems like option pricing, risk management, portfolio selection, etc.
   ...
-  The monograph is exclusively professionally written and the materials are presented in an attractive way. This book may be useful to senior undergraduate and postgraduate students.
+  The monograph is exclusively professionally written and the materials are presented in an attractive way.
+  This book may be useful to senior undergraduate and postgraduate students.
   ```
 
 
