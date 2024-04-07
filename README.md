@@ -34,7 +34,7 @@ Includes two chapters on machine learning in finance based on cutting-edge resea
 ## Table of Contents
 
 
-### Part I Numerical Methods
+### Part I: Numerical Methods
 
 
 **Chapter 1** : [Preliminaries](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_01.md)
