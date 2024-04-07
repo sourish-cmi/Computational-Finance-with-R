@@ -51,6 +51,8 @@ Includes two chapters on machine learning in finance based on cutting-edge resea
 
 **Chapter 7** : [Optimization](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_07.md)
 
+### Part II: Simulation Methods
+
 **Chapter 8** : [Monte Carlo Methods](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_08.md)
 
 **Chapter 9** : [Lattice Models](https://github.com/sourish-cmi/Computational-Finance-with-R/blob/main/Chapter_09.md)
